@@ -9,6 +9,3 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
-
-# Claude AI
-DOMAIN-SUFFIX,claude.ai
