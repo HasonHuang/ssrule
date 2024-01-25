@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,forefront.workers.dev
 DOMAIN-SUFFIX,bing.com
+
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
