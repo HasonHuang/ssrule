@@ -17,6 +17,11 @@ DOMAIN-SUFFIX,ffzy-online6.com
 DOMAIN-SUFFIX,ffzy-online7.com
 DOMAIN-SUFFIX,ddzyku.com
 
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,gying.org
+DOMAIN-SUFFIX,gying.si
+DOMAIN-SUFFIX,gying.in
+
 # Tecent cloud
 IP-CIDR,43.136.0.0/16
 
