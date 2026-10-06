@@ -30,3 +30,11 @@ IP-CIDR,43.136.0.0/16
 
 # 当当
 DOMAIN-SUFFIX,dangdang.com
+# 夸克
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,quark.sm.cn
+DOMAIN-KEYWORD,quark
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibabausercontent.com
