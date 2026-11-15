@@ -39,3 +39,6 @@ DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
+
+# Opencode
+DOMAIN-SUFFIX,opencode.ai
